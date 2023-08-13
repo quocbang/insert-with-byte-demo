@@ -1,0 +1,11 @@
+ID: KU-P3211-SM1518-S02-1       # 機台號ID(station.ID) ，與APS105之設備編號取名方式一致
+sub-company: 1                  # 公司別
+factory: KU                    # 廠別   
+department-id: P3211            # 部門代號
+alias: S02-1                    # 機台別稱
+serial-number: 002              # 機台別編號(生產批號使用，最多3碼僅允許數字)
+description: |                  # 機台功能描述
+  三貿一次成型機
+  成型範圍15-18
+devices:                        # 固定資產編號(此欄位確定放入內容後再補上修正)
+  - 30710032 
